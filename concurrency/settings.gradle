@@ -1,0 +1,5 @@
+rootProject.name = 'java-concurrency-examples'
+
+// 代码模块
+include ':basic'
+project(':basic').projectDir = new File("$rootDir/basic")
