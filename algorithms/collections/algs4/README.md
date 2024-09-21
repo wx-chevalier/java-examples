@@ -19,7 +19,7 @@ Our original goal was to cover the <em>50 algorithms that every programmer shoul
 We use the word <em>programmer</em> to refer to anyone engaged in trying to accomplish
 something with the help of a computer, including scientists, engineers, and applications
 developers, not to mention college students in science, engineering, and computer science.
-The code is optimized for clarity, portability, and efficiency. While some of our 
+The code is optimized for clarity, portability, and efficiency. While some of our
 implementations are as fast as (or faster than) their counterparts in <tt>java.util</tt>,
 our main goal is to express the core algorithmic ideas in an elegant and simple manner.
 While we embrace some advanced Java features (such as generics and iterators),
@@ -37,7 +37,6 @@ You can also access it via <a href = "https://bintray.com/algs4/maven/algs4">Bin
 
 Feel free to use this public repository to develop solutions to the programming assignments.
 However, please do not store solutions to programming assignments in public repositories.
-
 
 ## Copyright
 
@@ -59,6 +58,7 @@ code before contacting us.
 ## Support for other programming languages
 
 Some of the code in this repository has been translated to other languages:
+
 <ul>
 <li><a href = "https://github.com/garyaiki/Scala-Algorithms">Scala</a> by Gary Struthers
 <li><a href = "https://github.com/nguyenqthai/Algs4Net">.NET</a> by Quoc Thai
@@ -66,7 +66,6 @@ Some of the code in this repository has been translated to other languages:
 <li><a href = "https://github.com/shellfly/algs4-py">Python</a> by Li Hao
 <li><a href = "https://github.com/shellfly/algo">Go</a> by Li Hao
 </ul>
-
 
 ## Credits
 
